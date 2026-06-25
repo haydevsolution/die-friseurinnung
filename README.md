@@ -1,7 +1,8 @@
-# Die Friseurinnung Stuttgart · Ludwigsburg
+# Die Friseurinnung — Friseursalon Stuttgart · Ludwigsburg
 
-Moderne, responsive One-Page-Website für die Friseurinnung Stuttgart | Ludwigsburg.
-Neugestaltung der bestehenden Seite [die-friseurinnung.de](https://www.die-friseurinnung.de/).
+Moderne, responsive One-Page-Website für den Friseursalon Die Friseurinnung in
+Stuttgart & Ludwigsburg. Neugestaltung der bestehenden Seite
+[die-friseurinnung.de](https://www.die-friseurinnung.de/).
 
 ## Stack
 
@@ -14,9 +15,9 @@ Reines, statisches Frontend — kein Build-Schritt nötig:
 
 ## Inhalte
 
-- **Die Innung** — Vertretung, Gemeinschaft, Qualität
-- **Ausbildung · Karriere · Fortbildung**
-- **Kontakt** — Standorte Stuttgart & Ludwigsburg mit Öffnungszeiten
+- **Salon** — Über uns, Wohlfühl-Atmosphäre
+- **Leistungen** — Schnitt & Styling · Color & Strähnen · Pflege & Treatments
+- **Team** und **Termin / Kontakt** — Standorte Stuttgart & Ludwigsburg mit Öffnungszeiten
 
 ## Lokal ansehen
 
